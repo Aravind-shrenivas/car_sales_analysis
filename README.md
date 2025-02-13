@@ -49,13 +49,11 @@ The database consists of **eight key tables**:
 
 1. Clone the repository:  
 
-```bash
-https://github.com/Aravind-shrenivas/car_sales_analysis.git
+git clone https://github.com/Aravind-shrenivas/car_sales_analysis.git
 cd car_sales_analysis
 
 2. Install dependencies:
 
-```bash
 pip install pandas sqlite3
 
 3. Open the Jupyter Notebook and run the SQL queries step by step.
