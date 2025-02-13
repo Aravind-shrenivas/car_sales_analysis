@@ -1,4 +1,4 @@
-# Sales Car Data Analysis - SQL Project
+# Car Sales Data Analysis - SQL Project
 
 ## Project Overview  
 This project analyzes a relational database (`stores.db`) containing **sales transactions, customer data, products, employees, and payments** for a car sales business. The objective is to extract meaningful insights using **SQL queries** and **optimize business strategies** based on data-driven decision-making.  
